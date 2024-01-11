@@ -1,0 +1,1 @@
+# star_gold_coin-contract
